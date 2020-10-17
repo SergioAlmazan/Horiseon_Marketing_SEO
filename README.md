@@ -1,2 +1,2 @@
 # Horiseon_Marketing_SEO
-A website for Horiseon Marketing optimized for the site to be found on search engines.
+The client requested to have their website to be SEO. To allow thier site to be found through search engines.Here are the newly updated html and assets for the client to use for their site.
